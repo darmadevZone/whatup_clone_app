@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "126991382142",
+    "project_id": "whatup-clone-app",
+    "storage_bucket": "whatup-clone-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126991382142:android:557bf36f0541ac5e6cca2f",
+        "android_client_info": {
+          "package_name": "com.example.whatup_clone_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126991382142-djbjl2b9go1p37qhhni3pcc9dffoor3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoy9DOuMToL7I4ToC__n5VRem6Wh1JZoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126991382142-djbjl2b9go1p37qhhni3pcc9dffoor3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
